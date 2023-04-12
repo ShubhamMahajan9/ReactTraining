@@ -1,0 +1,8 @@
+
+
+//typically return is used to return a value from a function. So in case where we need to come out of loop the use of return is not good practice and it should be avoided
+
+
+If you want to break out of the loop then use break.
+
+Use return only when it's necessary to exit the function definition.
